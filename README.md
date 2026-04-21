@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Cluade0418
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python in CPS3320
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me zenjia@kean.edu
+- 👋 Hi, I’m Jia Zeng / Cluade0418
+- 🌱 Passionate about Full-Stack Development, AI, and Information System Design
+- 💞️ Currently based in Malden, Bos / Open to global opportunities
+- 📫 How to reach me: 15869788288@163.com/zeng.jia2@nrotheastern.edu
 
 <!---
 Cluade0418/Cluade0418 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
