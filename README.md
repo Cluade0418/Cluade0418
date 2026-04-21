@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jia Zeng / Cluade0418
 - 🌱 Passionate about Full-Stack Development, AI, and Information System Design
-- 💞️ Currently based in Malden, Bos / Open to global opportunities
+- 💞️ Currently based in Malden, MA / Open to global opportunities
 - 📫 How to reach me: 15869788288@163.com/zeng.jia2@nrotheastern.edu
 
 <!---
